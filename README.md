@@ -1,4 +1,4 @@
-==>   To know All branches of my project.
+==>   To know All branches of my project...
 $ git branch
 * main
 
